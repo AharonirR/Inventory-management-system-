@@ -29,3 +29,15 @@ This project is a basic backend implementation of an Inventory Management System
 
 ### Project Structure
 
+inventory-management-system/
+├── src/
+│ ├── main/
+│ │ ├── java/
+│ │ │ └── com/
+│ │ │ └── example/
+│ │ │ └── inventory/
+│ │ │ ├── InventoryManagementSystem.java
+│ │ │ ├── Product.java
+│ │ │ ├── InventoryService.java
+├── pom.xml
+├── README.md
