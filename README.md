@@ -13,7 +13,7 @@ This project is a basic backend implementation of an Inventory Management System
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/nirkil/inventory-management-system.git
+    git clone https://github.com/AharonirR/inventory-management-system.git
     cd inventory-management-system
     ```
 
